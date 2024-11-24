@@ -30,7 +30,7 @@ A simple **To-Do List application** written in Python using Tkinter. This app al
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/zelosdevs/todo-list-saving-by-zelo.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -38,7 +38,7 @@ A simple **To-Do List application** written in Python using Tkinter. This app al
     ```
 3. Run the script:
     ```bash
-    python todo.py
+    python todo-saving-by-zelo-dev.py
     ```
 
 ---
@@ -47,7 +47,7 @@ A simple **To-Do List application** written in Python using Tkinter. This app al
 
 1. Launch the app with:
     ```bash
-    python todo.py
+    python todo-saving-by-zelo-dev.py
     ```
 2. Use the **Add Task** button to add tasks to the list.
 3. Select a task and use the **Delete Task** button to remove it.
