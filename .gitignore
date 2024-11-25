@@ -1,0 +1,25 @@
+# Bytecode fájlok kizárása
+__pycache__/
+*.py[cod]
+
+# Virtuális környezet mappa
+venv/
+env/
+
+# Operációs rendszer által generált fájlok
+.DS_Store
+Thumbs.db
+
+# Ideiglenes fájlok
+*.log
+*.tmp
+*.bak
+
+# Mappák és fájlok, ahol a felhasználói adatok vannak
+lists/
+
+# Debugger config
+*.swp
+
+# Git által generált konfliktus fájlok
+*.orig
