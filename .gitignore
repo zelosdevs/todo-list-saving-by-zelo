@@ -1,0 +1,12 @@
+# Kezelje az összes szöveges fájlt platformfüggetlen sortöréssel
+* text=auto
+
+# Python fájlok specifikus beállításai
+*.py diff=python
+
+# JSON fájlok normál szöveges kezelés
+*.json text
+
+# Unicode karakterek helyes kezelése
+*.md text
+*.txt text
